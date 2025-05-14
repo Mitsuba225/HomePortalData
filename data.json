@@ -1153,6 +1153,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_ec2f53e2-564e-49e9-9e5a-d17c0916e878",
+					"Name": "白色聖堂",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "何者にもなれる色",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
