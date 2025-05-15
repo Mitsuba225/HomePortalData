@@ -1164,6 +1164,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_92f4c30c-c5f0-4fe2-a4d1-8aa5ac65878b",
+					"Name": "沈没都市 - Sunken City",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a04fdf7a-c507-4b60-b88b-19fa2aece66d",
+					"Name": "Trinity",
+					"RecommendedCapacity": 8,
+					"Capacity": 10,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
