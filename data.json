@@ -1186,6 +1186,50 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
+					"Name": "月に君影",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ワールド名の君影は「君影草」（＝スズランの異称）から取っています。 BGM˸孤独と共に／written by˸ゆうり 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0340e2e5-e83e-49af-b7e8-942ebe45c7fb",
+					"Name": "RadDolls Pier Café",
+					"RecommendedCapacity": 16,
+					"Capacity": 20,
+					"Description": "Where Dolls Await",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1a8f3ce5-411a-4ea6-9934-1dd46a1b0ea1",
+					"Name": "RadDolls Pier Café -Night-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Where the doll sleeps",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4d0d9c56-716f-4abc-b832-63a80ab5f076",
+					"Name": "The Writers Parlor",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "A beautiful decaying mansion bathed in dusty light․ This world is for VRChat's literary community․ Contains readable books authored by group members․ More books will be added over time․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
