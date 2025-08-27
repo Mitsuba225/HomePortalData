@@ -1401,6 +1401,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_13053b09-c27f-43bc-8092-70a81f9b8b2c",
+					"Name": "東西メトロライン星ヶ崎駅",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "好きなだけ地下鉄に乗ることができます。 あなたの目的地はどこですか？ ミラー、動画プレイヤー、QVペン完備。 追記：長時間稼働中のインスタンスや、ワールドアップデート直後は同期が壊れることがあります。その場合は新規で立て直してください。Some times Sync just broke․ If that happens‚ please remake instance․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
