@@ -1412,6 +1412,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_cd6157d0-93bb-49d7-bca0-a5191718e165",
+					"Name": "․⁄ hallucination",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "No sound is produced․写真撮影などにご利用ください",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
