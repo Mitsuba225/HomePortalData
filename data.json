@@ -3,44 +3,6 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
-			"Category": "お気に入り",
-			"Worlds": [
-				{
-					"ID": "wrld_89112876-1c0d-429b-8901-6003ceac8404",
-					"Name": "群青コントレイル ~Blue Contrail ''Gunjo''~",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "日本のどこかにある高台の洋館で、移りゆく雨模様と遠くの街の灯りを眺めながら、心ほどけるひとときをお過ごしください。 ｜ Hillside Manor - A Japanese Rainy Evening Retreat ｜ Hashtag ˸ ＃Gunjo3D",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_7f3a6077-0183-4097-a837-f59e3f9d4a16",
-					"Name": "Pepiement",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "渋谷のガード下を抜けて幻想的な海辺のパビリオンへ ⁄⁄ Hashtag ˸ ＃Pepiement3D",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_57915bce-a311-4e43-9acb-8cbe5f9882fb",
-					"Name": "ヒュリハウス",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "ここがあの緑のハウスね https˸⁄⁄vulpeculakitsune․booth․pm⁄items⁄6786263",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				}
-			]
-		},
-		{
 			"Category": "撮影用",
 			"Worlds": [
 				{
@@ -1241,12 +1203,243 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_b731caf1-813d-457d-82e1-ba04ccfdb2d4",
+					"Name": "_月燈の杜 -Where Moonlight Gathers-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Welcome to Tsukiakari no Mori․ A moonlit forest between summer and autumn․ ⁄ ようこそ、ツキアカリの杜へ 月の光に照らされた静かな場所で、ゆっくりとした時間をお過ごしください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7112248e-23e5-48d4-a63b-7cc248189422",
+					"Name": "真夏、往時の如し",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "木々に蟬声、 清いさえずり、真夏に団らん、往時は昨今の如し",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7112248e-23e5-48d4-a63b-7cc248189422",
+					"Name": "星巡りの大聖堂 ～ Charlotte's Moonlight Cathedral",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Description 星と月の出会う場所。きっと銀河（ユメ）にだって手が届くでしょう。星巡りのクジラが祝福する大聖堂。∗∗VR結婚式、ライブ、イベント、撮影会などでぜひご活用ください∗∗",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_88e4a8d3-3a87-44ce-b00f-999c353d6690",
+					"Name": "宙へ紡ぐ湖 - Lake Weaving Toward the Cosmos -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "時を織り、想いを重ね、僕らの旅は宙へと物語を紡ぐ Weaving time‚ layering feelings‚ we weave our tale toward the cosmos BGM「Calm Days」composed by Harmonia",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_fa32e8f7-38df-4d49-a608-58fc4872ede9",
+					"Name": "カンパニュラに咲く想い",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カンパニュラが時を告げる。想いを告げる者はもういない。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_daaa662f-0fbd-40c9-bb78-c04cf9371fad",
+					"Name": "White Reverie",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "My little white dream ⁄ THX HANI․ 민소담_",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cb903cb2-1399-46ec-833b-ca933337776c",
+					"Name": "In Between",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Cyberpunk style world without neon and․․․ Well because there's nobody․․․ 'Blame ǃ' manga vibe",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
+					"Name": "小雨のあの日-A drizzly day",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "zmi-Utakara",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6adf67f2-9d0d-41bc-a087-04619c255bbc",
+					"Name": "星今宵",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "季節外れの七夕․․․と思いきや、八月に開催される七夕まつりもあるようです。 BGM˸夏に吹く風／written by˸ゆうり 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6c829880-46e8-4ef6-a41c-b88678bbfbcf",
+					"Name": "NB˸Toon Story",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "たくさん楽しんでください···ワールドを永久にアップします···（~2025․12․31）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ff8de6fa-1ff6-4a39-82c3-e9b23998077b",
+					"Name": "Good Night Darling",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Good Night Darling‚ Yamaplayer ⁄ QVpen ⁄ Rain sound ⁄ RBS SleepKit2 PCは左手トリガー二回、デスクトップはEキーでタブレットを呼び出せます ベッドモニターの角度調整はタブレットでできます",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_fb3c8a89-8d12-499b-9bce-467fb6ac8ad7",
+					"Name": "水緑街",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "どこか知っているかもしれない、ありえたかもしれない世界",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d7505c35-38ec-4bbc-a64f-eb47b6fbfd90",
+					"Name": "NRTK Photo Studio",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Ver1․15 2022⁄5⁄4 Upload",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b5e3e3a9-ec6e-4544-a4eb-73dfd2b789bf",
+					"Name": "星空茶店 ～ Charlotte's Aurora Island",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "オーロラの彼方。宇宙（ソラ）の果てに届くかな？僕らのメッセージ。星と星の間を行く君への一通の手紙。さあ、コーヒーでも飲んで語り合おう․․․夢について。星巡りのクジラに見守られて、ゆっくりお休みなさい。1F：カフェ‚ 2F：寝室‚ 屋上：天体観測所。（望遠鏡に触れてみてね） ∗∗小惑星探査機「はやぶさ」帰還15周年 記念∗∗ ＃VRCLightVolumesReady",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a8ac46ee-5946-4170-b68a-d38f85c53475",
+					"Name": "CASINO ALICE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "UdonChipsを使って遊べるカジノです。ジョイン時に10万UCが付与されます。 重めのワールドなのでご了承ください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9f3db285-3ca8-443a-b184-2651fda659f9",
+					"Name": "Charlotte's Rainy Cafe あまやどり",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "雨の降る夜、和傘の下で雨宿り․․․空の上のカフェ。銀河みたいな夜景と、水族館․․目をつむってJazzと雨音に癒されて。ご歓談・イベント・ご休憩にぜひ。（QvPen‚ iwasync‚ ミラー‚ サンプルアバターペデスタル（まめひなた⁄すずはな⁄みなほし）etc․․あります）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e59a55f1-955d-4ae4-8578-20530742e710",
+					"Name": "はいよるこんとん",
+					"RecommendedCapacity": 13,
+					"Capacity": 13,
+					"Description": "MUSIC˸Dの世界",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_42f26ced-e279-4e49-bca5-7b07fd76d899",
+					"Name": "小花 - A glowing day that reflects her joy",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Small space behind the house․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
 		{
 			"Category": "チルワールド",
 			"Worlds": [
+				{
+					"ID": "wrld_89112876-1c0d-429b-8901-6003ceac8404",
+					"Name": "群青コントレイル ~Blue Contrail ''Gunjo''~",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本のどこかにある高台の洋館で、移りゆく雨模様と遠くの街の灯りを眺めながら、心ほどけるひとときをお過ごしください。 ｜ Hillside Manor - A Japanese Rainy Evening Retreat ｜ Hashtag ˸ ＃Gunjo3D",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7f3a6077-0183-4097-a837-f59e3f9d4a16",
+					"Name": "Pepiement",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "渋谷のガード下を抜けて幻想的な海辺のパビリオンへ ⁄⁄ Hashtag ˸ ＃Pepiement3D",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_57915bce-a311-4e43-9acb-8cbe5f9882fb",
+					"Name": "ヒュリハウス",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ここがあの緑のハウスね https˸⁄⁄vulpeculakitsune․booth․pm⁄items⁄6786263",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
 				{
 					"ID": "wrld_5f3ffd49-8ac4-4802-ac8e-7dc7163d1f24",
 					"Name": "BarRoom",
@@ -1513,21 +1706,5 @@
 				}
 			]
 		},
-		{
-			"Category": "ゲームワールド",
-			"Worlds": [
-				{
-					"ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5",
-					"Name": "SlashCo VR",
-					"RecommendedCapacity": 8,
-					"Capacity": 8,
-					"Description": "3⁄3⁄25 - v0․7․01｜ A Survival Stealth Horror Co-op game․ WARNING˸ Contains loud sounds‚ flashing images and profanity․ VRC Group ≻ SLASH․3139",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				}
-			]
-		}
 	]
 }
