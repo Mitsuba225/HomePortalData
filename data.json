@@ -1667,17 +1667,6 @@
 					}
 				},
 				{
-					"ID": "",
-					"Name": "",
-					"RecommendedCapacity": ,
-					"Capacity": ,
-					"Description": "",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
 					"ID": "wrld_571d49f7-522d-4e0e-9130-b11e78fc7e4f",
 					"Name": "Sacred Heart Academy 1․97",
 					"RecommendedCapacity": 13,
