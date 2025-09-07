@@ -1423,6 +1423,292 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_b1c45264-91ba-4048-be3e-2cb979c93fd6",
+					"Name": "壊れた未来の大聖堂、信仰の証 - Cathedral of the Broken Future‚ Evidence of Faith",
+					"RecommendedCapacity": 12,
+					"Capacity": 12,
+					"Description": "壊れた未来の大聖堂、信仰の証 - Cathedral of the Broken Future‚ Evidence of Faith",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_46012581-b6b0-4efc-8002-554baeeed2cb",
+					"Name": "ねこと星の木 -Neko and the Star Tree-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "ねこが見守る小さな島。 木の上に登ってみようǃǃ ＃7DaysWorldWorks参加作品。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ba7e4610-e51e-497b-bfe2-82a7bea09ff1",
+					"Name": "flower｜rays of light shine",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Photography World․ Switchable Ambient Occlusion ＆ Avatar Light ＆ Video Player․ VRC Light Volumes․スイッチを押すと水が出たり、撮影の邪魔にならないようにプレイヤーを消せます。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d4cbf224-21ce-4482-bb0c-1e9885a9958a",
+					"Name": "the colony - flat 804",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "After all the invasion and war․․․ 침략과 전쟁이 모두 끝난 후․․․ 侵略と戦争の両方が終わった後․․․ 入侵和战争结束后․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ac1cd2f0-a470-45e7-83f4-4a74c166af33",
+					"Name": "梦之所及3",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "（内置三国杀）旅行在终末之中，捡起历史的残骸，在末世中修补世界的创伤終わりへの旅を続け、歴史の残骸を拾い集め、終末の世界でその傷を癒す",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2f8e6a48-5a3d-4631-80bf-9437f7f607a4",
+					"Name": "009-忘れられた場所-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "忘れらた場所のピアノが奏でる音楽に耳を傾けてもらえたら嬉しいです。撮影用に使用してください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4aace314-8e3c-427f-994b-d269d9adb870",
+					"Name": "朝霧もなく、花は咲く-The lotus blooms‚ even without the morning mist-（WIP）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "大きく咲いていた。水の中でもはっきりと見える。わたしのこと、忘れてね。おやすみなさい。 BGM˸「わすれずにいてね」 nonai sound 【ワールドの使い方】 ＊水中に「LightChange」ギミックのついた蓮があります。7色の色に変えれます。VRCLightVolume対応しているアバターでは影響を受けます。＊ワールドの南端⁄矢倉にBGM⁄SE、花火の反射（WatorMirror品質調整）、ポストプロセス、花火ONOFFがあります。花火・花火の反射を切ると軽くなります。大人数⁄長時間の場合は使用してください。船追加しました。【Xでのレタッチ投稿歓迎です】",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a4daa50d-3b70-4211-83af-89afb4da0767",
+					"Name": "月光蝶～Charlotte's Moon Recital",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "海の音楽堂․․․青い月光に照らされて。ピアノの旋律に合わせて蝶が舞う。演奏会・撮影会・小集会、もちろん休憩や睡眠などにもどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b4f64583-c08b-4cc9-8283-986781de09f6",
+					"Name": "RE˸ a-lin",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You can find it․ 你终会与它相遇。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_80c945f3-e2b4-445e-995e-5eb701beca0d",
+					"Name": "WaterReflection",
+					"RecommendedCapacity": 14,
+					"Capacity": 31,
+					"Description": "QVペン・入退室ログ、ビデオプレイヤーを画面左の外の壁側に設置しています。 MUSIC ˸ MUZZ - New Age （feat․ Celldweller）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9936b6ff-e523-4066-9e40-a333320ff5d3",
+					"Name": "New Generation ⁄ 新世代",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "Anyway‚ time passes and generations change․ ［ Special thanks to 'HANI․' ］․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_16bb1d60-852d-4542-9c99-07e96aa88756",
+					"Name": "Last Generation ⁄ 最後の世代",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "Is being the last generation a blessing? ［ Special thanks to 'HANI․' ］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4af8c3d3-f710-42e5-99fc-daac5d4e5e95",
+					"Name": "Les Murmures de lÉternité （永遠のささやき）",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Dans la lueur des chandelles et lombre des statues‚ lâme du visiteur entendra la voix de linfini․ Ce monde est une prière murmurée à travers les âges․ 燭台の灯と彫像の影の中で、訪れる者の魂は無限の声を聞くであろう。 この世界は、世代を越えて囁かれる一つの祈りである。 12 使徒、星座、月の数 「永遠を超えて繰り返される秩序」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9c0cc87e-41ac-4eb8-93cd-990fd6db664b",
+					"Name": "UNDER THE WATER",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "particles practice",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5bb75ec9-1a19-4d93-b3d2-8e963f72d56a",
+					"Name": "Seclusion․002",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Seclusion․002",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c55fe71d-3854-4734-8f3d-3a5757a111b4",
+					"Name": "誰も知らない願いの墓標ーA gravestone for wishes no one knows aboutー",
+					"RecommendedCapacity": 25,
+					"Capacity": 30,
+					"Description": "A gravestone for wishes no one knows about 誰にも知られない願いがそこにあった vrc light volumes あるよ。きれいに写真とってね",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_54d0d6db-b51e-4412-9241-81d8e46576dc",
+					"Name": "Sunrise Haven",
+					"RecommendedCapacity": 50,
+					"Capacity": 80,
+					"Description": "A cozy hangout spot under trees on top of a mountain surrounded by a field of flowers at sunrise․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e9923bc3-d62c-48d6-aaa9-008cafa7e3ea",
+					"Name": "Lumarelle（ルマレル）",
+					"RecommendedCapacity": 10,
+					"Capacity": 40,
+					"Description": "蒼灯の都がのぞけるワールド AO薄くかけてます 撮影向け MUSIC˸Temple Trot by zippy",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3ad8f8af-f471-4e60-b9b0-4aafb2d8e9a3",
+					"Name": "光とネモフィラと",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2025․No․2_World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_dec7ff2b-5702-428b-b7ea-b20eac37257f",
+					"Name": "CELESTE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Where dawn breaks through the trees and silence sings welcome to the forest between dreams and daybreak․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0e49917d-f2ac-4d9c-a937-e4a8845afa89",
+					"Name": "CQETCRAT",
+					"RecommendedCapacity": 5,
+					"Capacity": 5,
+					"Description": "CQETCRAT",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ebcb6f4d-0f15-4efd-8a38-58ce133d9acc",
+					"Name": "Ne-mophira",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "風が揺らす、青い絨毯の波 ⁄ The waves of a blue carpet‚ swayed by the wind․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": ,
+					"Capacity": ,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_571d49f7-522d-4e0e-9130-b11e78fc7e4f",
+					"Name": "Sacred Heart Academy 1․97",
+					"RecommendedCapacity": 13,
+					"Capacity": 20,
+					"Description": "完成した：中庭、聖堂、食堂、時計塔、劇場 進行中：寄宿舎 製作待ち：講義棟、図書館、体育館 （Made by Circes for Akashi Myu）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2674a882-e383-4e44-8e1f-e906759d2a7e",
+					"Name": "緋色の夢境 Scarlet Dreamscape",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "浮かぶ城、散る花、朽ちた剣。 すべては語られぬ物語。 貴方はこの夢を歩く者。 ようこそ、醒めることなき深紅の夜へ （VRC Light Volumes、Audio Link対応） 7⁄29 城エリア追加",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2759f306-d4e4-4254-9cb1-e662ab75de86",
+					"Name": "Memory Bank",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Memory Bank",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
